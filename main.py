@@ -17,4 +17,5 @@ if __name__ == '__main__':
     print("master_conflict")
     print("hotfix_conflict")
 
+    #   远程库的版本是1.0，我修改的版本是2.0 ，写代码之前先pull的操作 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
